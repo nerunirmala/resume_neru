@@ -51,12 +51,12 @@ img{
 	
 }
 .left{
-	background-color: pink;
+	background-color: #ff4000	;
 	border: 2px solid #000;
 	margin: 2px;
 }
 .right{
-	background-color: violet;
+	background-color: #00ffbf;
 	border: 2px solid #000;
 	margin: 2px;
 }	
