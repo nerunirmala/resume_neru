@@ -15,13 +15,13 @@ img{
 }
 .left{
 	flex: 1;
-	background-color: pink;
+	background-color: #ff4da6;
 	border: 2px solid #000;
 	margin: 2px;
 }
 .right{
 	flex: 3;
-	background-color: violet;
+	background-color: #248f8f;
 	border: 2px solid #000;
 	margin: 2px;
 }
