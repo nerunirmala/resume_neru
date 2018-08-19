@@ -1,0 +1,50 @@
+{
+	"basicdetails":{
+		"image":"SOO.jpg",
+		"name":"I.NIRMALA SPOORTHI",
+		"email":"spoorthiinturi195@gmail.com",
+		"phone":"888888888888",
+		"address":"syamala nagar,guntur(dt)"
+	},
+	"education":[
+		{
+			"course":"B.tech(cse)",
+			"college":"vignan nirula college",
+			"percentage":"80%"
+		},
+		{
+			"course":"intermediate(mpc)",
+			"college":"Sri Chaitanya Junior College",
+			"percentage":"80"
+		},
+		{
+			"course":"ssc",
+			"college":"narayana school",
+			"percentage":"90"
+		}
+	],
+	"skills":[
+		{
+			"name":"Operating systems",
+			"value":"Windows,Linux,MAC"
+		},
+		{
+			"name":"Programming languages",
+			"value":"C,C++,Java,Python"
+		}
+	],
+	"carrier":[
+		{
+			"ca":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills"
+		}
+	],
+	"Achivements":[
+		"I got first prize in coco.",
+		"I got gold medal in chess compitetion"
+	],
+	"Description":
+	{
+		"des":"I here by declare that all the above mentioned details are true up to my concern"
+	}
+
+}

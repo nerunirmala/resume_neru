@@ -1,0 +1,91 @@
+.main{
+	border: 2px solid #000;
+	margin: 2px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.first{
+	border: 2px solid #000;
+	margin: 2px;
+	display: flex;
+}
+img{
+	width: 200px;
+	
+}
+.left{
+	flex: 1;
+	background-color: pink;
+	border: 2px solid #000;
+	margin: 2px;
+}
+.right{
+	flex: 3;
+	background-color: violet;
+	border: 2px solid #000;
+	margin: 2px;
+}
+#g0{
+	color: green;
+	font-size: 10px;
+	font-style: italic;
+}
+table,td,tr{
+	border: 2px solid #000;
+	border-collapse: collapse;
+	
+}
+@media only screen and (max-width: 480px){
+.main{
+	display: flex;
+	/*flex-wrap: wrap;*/
+	flex-direction: column;
+}
+.first{
+	border: 2px solid #000;
+	margin: 2px;
+}
+img{
+	width: 200px;
+	border-radius: 20px;
+	
+}
+.left{
+	background-color: pink;
+	border: 2px solid #000;
+	margin: 2px;
+}
+.right{
+	background-color: violet;
+	border: 2px solid #000;
+	margin: 2px;
+}	
+}
+@media only screen and (min-width: 481px)and (max-width: 768px){
+.main{
+	border: 2px solid #000;
+	margin: 2px;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+.first{
+	border: 2px solid #000;
+	margin: 2px;
+	display: flex;
+	flex-direction: column;
+}
+.left{
+	text-align: center;
+	flex: 1;
+	background-color: #808080;
+	border: 2px solid #000;
+	margin: 2px;
+}
+.right{
+	flex: 3;
+	background-color: #7EDCC9;
+	border: 2px solid #000;
+	margin: 2px;
+}
+}
